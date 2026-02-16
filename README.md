@@ -270,6 +270,17 @@ Contributions are welcome! Feel free to:
 **PiyushJimiwal**  
 GitHub: [@PiyushJimiwal](https://github.com/PiyushJimiwal)
 
+## Contributor
+
+**Yash Krishan Gupta**
+Github: [@YashKrishanGupta](https://github.com/yashkrishangupta)
+
+**Mohit Suyal**
+Github: [@MohitSuyal](https://github.com/MohitSuyal828)
+
+**Nivedan Singh**
+Github: [@NivedanSingh](https://github.com/Doller2007)
+
 ---
 
 **Note**: Make sure to populate the `student_photos` folder with actual student photos before using the system!
