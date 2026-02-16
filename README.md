@@ -265,11 +265,6 @@ Contributions are welcome! Feel free to:
 - Suggest features
 - Submit pull requests
 
-## Author
-
-**PiyushJimiwal**  
-GitHub: [@PiyushJimiwal](https://github.com/PiyushJimiwal)
-
 ---
 
 **Note**: Make sure to populate the `student_photos` folder with actual student photos before using the system!
